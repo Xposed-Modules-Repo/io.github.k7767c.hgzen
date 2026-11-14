@@ -27,7 +27,7 @@
 2. 从 Releases 下载并安装模块 APK。
 3. 在 LSPosed 中启用 Hgzen，按实际使用情况勾选 `com.kylin.read`、`com.phoenix.read` 作用域。
 4. 完全退出并重新打开目标 App，无需重启手机。
-5. 在目标 App 内同时按音量加、音量减，打开模块设置。
+5. 在目标 App 内同时按音量加、音量减，或通过软件设置页右侧的 Hgzen 图标打开模块设置。
 
 ## 反馈
 
